@@ -1,0 +1,83 @@
+1631453004576	geckodriver	INFO	Listening on 127.0.0.1:58737
+1631453007679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileFJMSGZ"
+1631453038764	geckodriver	INFO	Listening on 127.0.0.1:58773
+1631453041819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofilebRHr0N"
+1631453042336	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofilebRHr0N\\search.json.mozlz4", (void 0)))
+1631453044619	Marionette	INFO	Listening on port 58781
+1631453045035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.py4u.net/static/script.js, line 4: TypeError: can't access property "addEventListener", burger is null
+1631453053356	Marionette	INFO	Stopped listening on port 58781
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631453486186	geckodriver	INFO	Listening on 127.0.0.1:63744
+1631453489248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofilef4PElD"
+1631453489754	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofilef4PElD\\search.json.mozlz4", (void 0)))
+1631453491931	Marionette	INFO	Listening on port 63752
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1631453492443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://www.py4u.net/static/script.js, line 4: TypeError: can't access property "addEventListener", burger is null
+1631453505268	Marionette	INFO	Stopped listening on port 63752
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631453561825	geckodriver	INFO	Listening on 127.0.0.1:50995
+1631453564883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofilebqOurp"
+1631453565385	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofilebqOurp\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1631453567833	Marionette	INFO	Listening on port 51003
+1631453568085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.py4u.net/static/script.js, line 4: TypeError: can't access property "addEventListener", burger is null
+1631453575549	Marionette	INFO	Stopped listening on port 51003
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000C,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631453652100	geckodriver	INFO	Listening on 127.0.0.1:51071
+1631453655174	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofile93lRgj"
+1631453655679	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofile93lRgj\\search.json.mozlz4", (void 0)))
+1631453657672	Marionette	INFO	Listening on port 51080
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1631453657852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://mobile.dollarcat.net/static/js/manifest.e49dfb9ae23d63f3cbd6.js, line 1: Error: Loading chunk 8 failed.
+JavaScript error: https://mobile.dollarcat.net/static/js/manifest.e49dfb9ae23d63f3cbd6.js, line 1: Error: Loading chunk 8 failed.
+JavaScript error: https://mobile.dollarcat.net/static/js/manifest.e49dfb9ae23d63f3cbd6.js, line 1: Error: Loading chunk 8 failed.
+JavaScript error: https://mobile.dollarcat.net/static/js/manifest.e49dfb9ae23d63f3cbd6.js, line 1: Error: Loading chunk 8 failed.
+JavaScript error: https://mobile.dollarcat.net/static/js/manifest.e49dfb9ae23d63f3cbd6.js, line 1: Error: Loading chunk 8 failed.
+JavaScript error: https://mobile.dollarcat.net/static/js/manifest.e49dfb9ae23d63f3cbd6.js, line 1: Error: Loading chunk 8 failed.
+JavaScript error: https://mobile.dollarcat.net/static/js/manifest.e49dfb9ae23d63f3cbd6.js, line 1: Error: Loading chunk 8 failed.
+JavaScript error: https://mobile.dollarcat.net/static/js/manifest.e49dfb9ae23d63f3cbd6.js, line 1: Error: Loading chunk 8 failed.
+JavaScript error: https://mobile.dollarcat.net/static/js/manifest.e49dfb9ae23d63f3cbd6.js, line 1: Error: Loading chunk 8 failed.
+JavaScript error: https://mobile.dollarcat.net/static/js/manifest.e49dfb9ae23d63f3cbd6.js, line 1: Error: Loading chunk 8 failed.
+JavaScript error: https://mobile.dollarcat.net/static/js/manifest.e49dfb9ae23d63f3cbd6.js, line 1: Error: Loading chunk 8 failed.
+JavaScript error: https://mobile.dollarcat.net/static/js/manifest.e49dfb9ae23d63f3cbd6.js, line 1: Error: Loading chunk 8 failed.
+JavaScript error: https://mobile.dollarcat.net/static/js/manifest.e49dfb9ae23d63f3cbd6.js, line 1: Error: Loading chunk 8 failed.
+1631454756439	Marionette	INFO	Stopped listening on port 51080
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 3324, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
